@@ -13,3 +13,5 @@ Whether you're a developer, recruiter, or just curious about someone on GitHub, 
 
 ## Contributing 🤝
 Contributions are welcome! If you have ideas to improve the tool, feel free to fork the repository, make changes, and submit a pull request.
+
+<img width="1465" alt="Screenshot 2025-02-19 at 18 23 56" src="https://github.com/user-attachments/assets/7bf8d4e8-ce4d-4060-a1b0-9371ba5e57c3" />
